@@ -1,0 +1,23 @@
+.page-header {
+  background-color: #0e4749;
+}
+
+.page-header > * {
+  background-color: #0e4749;
+}
+
+.section-title {
+  background-color: #0e4749;
+}
+
+* {
+  background-color: #fafbfd;
+}
+
+.photo {
+  border-color: #0e4749;
+}
+
+.title {
+  color: white;
+}
